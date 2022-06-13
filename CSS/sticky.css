@@ -1,0 +1,9 @@
+.posSticky {
+    background-color:yellow;
+    border-radius:10px;
+    margin: .5rem;
+    padding: 1rem;
+    position: sticky;
+    top: 30px;
+
+}
