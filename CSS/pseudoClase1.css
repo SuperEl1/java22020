@@ -1,0 +1,10 @@
+a:hover {
+    color:rgb(114, 8, 114);
+    cursor: pointer;
+}
+a :visited {
+    color:rgb(6, 99, 6);
+}
+ li:nth-child(4n + 1) {
+    background-color:red;
+ }
